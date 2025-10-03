@@ -7,8 +7,6 @@
 
 ### 💡 Sobre mim
 
-Transformar conhecimento em impacto real: esse é meu foco 🚀🚀
-
 Estou estudando **Análise e Desenvolvimento de Sistemas**, pela UNINTER.  
 Sou apaixonado por tecnologia e o modo em que ela está presente em tudo.
 
