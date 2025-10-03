@@ -8,7 +8,7 @@
 ### 💡 Sobre mim
 
 Estou estudando **Análise e Desenvolvimento de Sistemas**, pela UNINTER.  
-Sou apaixonado por tecnologia e o modo em que ela está presente em tudo.
+Fascinado pelo poder transformador da tecnologia e como ela se integra em todos os aspectos da vida moderna
 
 Tenho formação técnica em **Automação Industrial** e atualmente estou participando de cursos na escola Vai na Web e Salvador Tech.      
 Acredito que inovação real acontece quando teoria e prática caminham juntas.
